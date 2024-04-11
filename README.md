@@ -1,4 +1,4 @@
-------------------------------------------------------------Virtual Hackathon-LACCEI 2024----------------------------------------------------------------------------
+Virtual Hackathon-LACCEI 2024
 Group Name: ElectroGallos
 Low-Consumption Water Quality Monitoring Station
 This project builds a low-power water quality monitoring station that utilizes an ESP32 microcontroller to collect and transmit real-time data to Thingspeak for visualization and further analysis using Matlab.
@@ -57,4 +57,3 @@ Consider implementing error handling and data validation routines in your code f
 Explore advanced features of Thingspeak and Matlab for data visualization and analysis tailored to your specific needs.
 This project provides a starting point for building a low-power water quality monitoring station. By customizing the code, sensor selection, and data analysis techniques, you can create a powerful tool for environmental monitoring and water quality management.
 
-------------------------------------------------------------Virtual Hackathon-LACCEI 2024----------------------------------------------------------------------------
