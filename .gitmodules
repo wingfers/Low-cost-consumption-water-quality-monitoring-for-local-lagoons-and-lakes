@@ -1,3 +1,4 @@
 [submodule "Adafruit_ADS1X15"]
 	path = Adafruit_ADS1X15
 	url = https://github.com/adafruit/Adafruit_ADS1X15
+	description = Libraries for Adafruit_ADS1X15
