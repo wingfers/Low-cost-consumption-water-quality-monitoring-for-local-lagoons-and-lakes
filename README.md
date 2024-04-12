@@ -2,7 +2,7 @@
 # Low-Consumption Water Quality Monitoring Station
 Group Name: ElectroGallos
 
-This project builds a low-power water quality monitoring station that utilizes an ESP32 microcontroller to collect and transmit real-time data to Thingspeak for visualization and further analysis using Matlab.
+This project builds a low-power water quality monitoring station that utilizes an ESP32 microcontroller to collect and transmit real-time data to Thingspeak for visualization and further analysis using MATLAB.
 
 ## Features
   
