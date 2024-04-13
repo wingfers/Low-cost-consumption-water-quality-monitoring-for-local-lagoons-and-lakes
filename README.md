@@ -4,6 +4,8 @@ Group Name: ElectroGallos
 
 This project builds a low-power water quality monitoring station that utilizes an ESP32 microcontroller to collect and transmit real-time data to Thingspeak for visualization and further analysis using MATLAB.
 
+Please visit our ThingSpeak Channel! https://thingspeak.com/channels/2479480 
+
 ## Features
   
   -Low-power operation for remote deployments
