@@ -2,3 +2,21 @@
 	path = Libraries/Adafruit_ADS1X15
 	url = https://github.com/adafruit/Adafruit_ADS1X15
 	description = Libraries for Adafruit_ADS1X15
+[submodule "Libraries/DFRobot_ESP_EC_BY_GREENPONIK"]
+	path = Libraries/DFRobot_ESP_EC_BY_GREENPONIK
+	url = https://github.com/GreenPonik/DFRobot_ESP_EC_BY_GREENPONIK
+[submodule "Libraries/DFRobot_ESP_PH_WITH_ADC_BY_GREENPONIK"]
+	path = Libraries/DFRobot_ESP_PH_WITH_ADC_BY_GREENPONIK
+	url = https://github.com/GreenPonik/DFRobot_ESP_PH_WITH_ADC_BY_GREENPONIK
+[submodule "Libraries/Arduino-Temperature-Control-Library"]
+	path = Libraries/Arduino-Temperature-Control-Library
+	url = https://github.com/milesburton/Arduino-Temperature-Control-Library
+[submodule "Libraries/OneWire"]
+	path = Libraries/OneWire
+	url = https://github.com/PaulStoffregen/OneWire
+[submodule "Libraries/thingspeak-arduino"]
+	path = Libraries/thingspeak-arduino
+	url = https://github.com/mathworks/thingspeak-arduino
+[submodule "Libraries/GravityTDS"]
+	path = Libraries/GravityTDS
+	url = https://github.com/DFRobot/GravityTDS
